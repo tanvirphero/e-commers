@@ -3,7 +3,7 @@
     position: relative;
     left: 140px;
 }
-.row{
+.rowest{
     background-color: #fceae8;
     height: 350px;
     margin: 70px 220px;
@@ -20,9 +20,72 @@
 .banner-button{
     margin-left: 200px;
     margin-top:40px;
-    background-color: hotpink;
+    background-color: rgb(19, 214, 52);
     color: white;
     border-radius: 30px;
     box-shadow:4px 4px 11px black;
 
+}
+#rowb{
+    height: 200px;
+    margin-left: 100px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: purple;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 20px;
+    margin-left: 30px;
+    box-shadow: 12px 5px 20px black;
+    border-radius: 15px;
+}
+.row2col1{
+    color: white;
+}
+.cardi{
+    margin: 0px 110px;
+}
+.shoe-button{
+    background-color:blue;
+    color: white;
+    margin-left: 100px;
+    padding:2px 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+    border: 1px solid;
+}
+.categories{
+    width: 100px;
+}
+.yes{
+     margin: 0px 15px;
+     box-shadow: 5px 5px 20px gray;
+     background-color: greenyellow;
+}
+section{
+    position: relative;
+    top: 80px;
+}
+#backpack{
+    position: relative;
+    top: 80px;
+}
+.mail{
+    position: relative;
+    top: 150px;
+    background-color: rgb(253, 139, 196);
+    height: 280px;
+    margin: 100px;
+
+}
+footer{
+    position: relative;
+    top: 100px;
+    text-align: center;
 }
