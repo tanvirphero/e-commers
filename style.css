@@ -1,0 +1,28 @@
+.nav{
+    align-items: center;
+    position: relative;
+    left: 140px;
+}
+.row{
+    background-color: #fceae8;
+    height: 350px;
+    margin: 70px 220px;
+}
+.banner-h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.buy{
+    text-align: center;
+    color:hotpink;
+
+}
+.banner-button{
+    margin-left: 200px;
+    margin-top:40px;
+    background-color: hotpink;
+    color: white;
+    border-radius: 30px;
+    box-shadow:4px 4px 11px black;
+
+}
